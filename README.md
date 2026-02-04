@@ -95,19 +95,6 @@
 
 ---
 
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-<!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=AnupamXcode&theme=radical&no-frame=true&margin-w=18"/>
-
-<br/><br/>
-
-<!-- CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnupamXcode&theme=react-dark&hide_border=true&radius=18"/>
-
-</div>
 
 
 ---
