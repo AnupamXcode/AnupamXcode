@@ -1,25 +1,145 @@
-# 💫 About Me:
-🔭 Working on web apps, C++ practice, and Python data tasks<br>👯 Open to small web and data projects<br>🤝 Need help with backend basics and project structure<br>🌱 Learning JavaScript, data analysis, and ML basics<br>💬 Ask about C++, frontend, Python, and GitHub<br>⚡ I improve old projects instead of starting new onesgress by continuously improving past projects instead of abandoning them
+<!-- ===================== HERO SECTION ===================== -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Anupam%20Shrivastava&fontSize=60&fontAlign=50&fontAlignY=45&color=gradient&stroke=00F7FF&animation=twinkling"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anupam-shrivastava-ba8a47320) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Anupam-Shrivastava-118) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/anupam-shrivastava ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anupamshri1906@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Web+Developer+%7C+C%2B%2B+Problem+Solver;Python+%26+Data+Analytics+Enthusiast;ML+Foundations+Learner;Building+by+Refining+Not+Restarting;Open+Source+%7C+Growth+Mindset" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnupamXcode&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AnupamXcode&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamXcode&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnupamXcode&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://komarev.com/ghpvc/?username=AnupamXcode&label=Profile+Views&color=0ef&style=for-the-badge"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AnupamXcode&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AnupamXcode&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🧠 Developer Identity
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 💫 About Me
+
+🔭 Working on **Web Apps, C++ DSA & Python Data Tasks**  
+👯 Open to **small but meaningful collaborations**  
+🤝 Seeking guidance on **backend fundamentals & scalable structure**  
+🌱 Learning **JavaScript, Data Analysis & ML basics**  
+💬 Ask me about **C++, Frontend, Python & GitHub workflows**  
+⚡ **Core Belief:**  
+> _Progress compounds when you refine, not restart._
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2k1Z3ZtNXhtNG9qZzN6eWZ6c2V6Z2Z1M2VxYW9yYjA2eXRnZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="90%"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌐 Digital Presence
+
+<div align="center">
+
+<a href="https://linkedin.com/in/anupam-shrivastava-ba8a47320">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://stackoverflow.com/users/anupam-shrivastava">
+<img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+</a>
+
+<a href="https://quora.com/profile/Anupam-Shrivastava-118">
+<img src="https://img.shields.io/badge/Quora-Thoughts-B92B27?style=for-the-badge&logo=quora&logoColor=white"/>
+</a>
+
+<a href="mailto:anupamshri1906@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 💻 Tech Stack 
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,php,bootstrap,flask,flutter,mongodb,mysql,sqlite,git,github,vercel,gcp,anaconda,tensorflow,pytorch,sklearn&theme=dark&perline=7" />
+
+</div>
+
+---
+## 📊 GitHub Performance 
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnupamXcode&show_icons=true&theme=blue-green&hide_border=true&border_radius=22" width="48%"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=AnupamXcode&theme=blue-green&hide_border=true&border_radius=22" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamXcode&layout=compact&theme=blue-green&hide_border=true&border_radius=22" width="55%"/>
+
+</div>
+
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+<!-- TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=AnupamXcode&theme=radical&no-frame=true&margin-w=18"/>
+
+<br/><br/>
+
+<!-- CONTRIBUTION GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnupamXcode&theme=react-dark&hide_border=true&radius=18"/>
+
+</div>
+
+
+---
+
+## 🧪 Contribution Heatmap 
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnupamXcode&theme=react-dark&hide_border=true&radius=16"/>
+
+</div>
+
+---
+
+## ✍️ Developer Thought
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+</div>
+
+---
+
+## 🔝 Most Impactful Contributions
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=AnupamXcode&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+
+</div>
+
+
+
+
