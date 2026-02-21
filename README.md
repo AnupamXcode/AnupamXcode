@@ -86,16 +86,15 @@
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=AnupamXcode&theme=blue-green&hide_border=true&border_radius=22" width="48%"/>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamXcode&layout=compact&theme=blue-green&hide_border=true&border_radius=22" width="55%"/>
-
 </div>
 
 
----
 
+<div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=AnupamXcode&color=blue&style=flat)
+
+</div>
 
 ---
 
