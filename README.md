@@ -1,131 +1,170 @@
-<!-- ===================== HERO SECTION ===================== -->
-<div align="center">
+# Anupam Shrivastava
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Anupam%20Shrivastava&fontSize=60&fontAlign=50&fontAlignY=45&color=gradient&stroke=00F7FF&animation=twinkling"/>
+### B.Tech CSE (AI & DS) | AI/ML & Software Development
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Web+Developer+%7C+C%2B%2B+Problem+Solver;Python+%26+Data+Analytics+Enthusiast;ML+Foundations+Learner;Building+by+Refining+Not+Restarting;Open+Source+%7C+Growth+Mindset" />
+I am a Computer Science student interested in building practical solutions across
+**Artificial Intelligence, Machine Learning, Software Development, and Data Analytics**.
 
-<br/>
+I enjoy solving problems with **C++ and Data Structures & Algorithms**, developing
+web applications, working with data using Python, and exploring AI/ML technologies.
 
-<img src="https://komarev.com/ghpvc/?username=AnupamXcode&label=Profile+Views&color=0ef&style=for-the-badge"/>
-
-</div>
-
----
-
-## 🧠 Developer Identity
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 💫 About Me
-
-🔭 Working on **Web Apps, C++ DSA & Python Data Tasks**  
-👯 Open to **small but meaningful collaborations**  
-🤝 Seeking guidance on **backend fundamentals & scalable structure**  
-🌱 Learning **JavaScript, Data Analysis & ML basics**  
-💬 Ask me about **C++, Frontend, Python & GitHub workflows**  
-⚡ **Core Belief:**  
-> _Progress compounds when you refine, not restart._
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2k1Z3ZtNXhtNG9qZzN6eWZ6c2V6Z2Z1M2VxYW9yYjA2eXRnZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="90%"/>
-
-</td>
-</tr>
-</table>
-
-</div>
+Currently, I am strengthening my skills in **DSA, Python, Machine Learning, SQL,
+Backend Development, Computer Vision, and Software Engineering**.
 
 ---
 
-## 🌐 Digital Presence
+## About Me
 
-<div align="center">
-
-<a href="https://linkedin.com/in/anupam-shrivastava-ba8a47320">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://stackoverflow.com/users/anupam-shrivastava">
-<img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-</a>
-
-<a href="https://quora.com/profile/Anupam-Shrivastava-118">
-<img src="https://img.shields.io/badge/Quora-Thoughts-B92B27?style=for-the-badge&logo=quora&logoColor=white"/>
-</a>
-
-<a href="mailto:anupamshri1906@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+- 🎓 B.Tech in Computer Science & Engineering (AI & Data Science)
+- 💻 Interested in AI/ML, Software Engineering, Backend Development & Data Analytics
+- 🧩 Practicing Data Structures & Algorithms with C++
+- 🤖 Building projects involving AI, Computer Vision & Automation
+- 🌐 Exploring Web Development and REST APIs
+- 📊 Working with Python, NumPy, Pandas & SQL
+- 🔧 Experienced with Git and GitHub workflows
+- 🤝 Open to internships, technical collaborations and open-source contributions
 
 ---
 
-## 💻 Tech Stack 
+## Technical Skills
 
-<div align="center">
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,php,bootstrap,flask,flutter,mongodb,mysql,sqlite,git,github,vercel,gcp,anaconda,tensorflow,pytorch,sklearn&theme=dark&perline=7" />
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-</div>
+### AI / Machine Learning / Data
 
----
-## 📊 GitHub Performance 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Basics-8A2BE2?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Computer%20Vision-0097A7?style=flat-square)
 
-<div align="center">
+### Web Development
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnupamXcode&show_icons=true&theme=blue-green&hide_border=true&border_radius=22" width="48%"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=AnupamXcode&theme=blue-green&hide_border=true&border_radius=22" width="48%"/>
+### Databases
 
-</div>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
+### Tools & Platforms
 
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=AnupamXcode&color=blue&style=flat)
-
-</div>
-
----
-
-## 🧪 Contribution Heatmap 
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnupamXcode&theme=react-dark&hide_border=true&radius=16"/>
-
-</div>
-
----
-
-## ✍️ Developer Thought
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 ---
 
-## 🔝 Most Impactful Contributions
+## Core Computer Science
 
-<div align="center">
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Problem Solving
+- Database Management
+- API Integration
+- Software Development
+- Version Control
+- Computer Networks Fundamentals
 
-<img src="https://github-contributor-stats.vercel.app/api?username=AnupamXcode&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+---
 
-</div>
+## Featured Projects
+
+### SunoSign — AI-Powered Sign Language Communication System
+
+AI-powered accessibility platform designed to bridge communication between
+hearing and deaf users using gesture recognition, speech recognition and
+text-to-speech.
+
+**Key Features**
+- Real-time sign language gesture recognition
+- MediaPipe-based computer vision
+- Speech recognition and text-to-speech
+- Real-time communication support
+- Designed with scalable deployment in mind
+
+**Tech:** React, JavaScript, Node.js, MediaPipe, Web Speech API
+
+[View Project](https://github.com/AnupamXcode/Hacksagon26_SunoSign)
+
+---
+
+### Intrusion Detection System
+
+Prototype security system focused on detecting suspicious activity and
+potential cyber attacks.
+
+**Key Features**
+- Anomaly detection
+- Threat monitoring
+- Privacy-aware local processing
+- Real-time monitoring dashboard
+- Modular security architecture
+
+**Tech:** Python, Machine Learning, Data Analysis
+
+[View Project](https://github.com/AnupamXcode)
+
+---
+
+### WhatsApp Chatbot for Waste Collection
+
+A chatbot-based automation solution developed to improve communication
+between residents and NGO waste-management services.
+
+**Key Features**
+- WhatsApp API integration
+- Automated waste pickup requests
+- Issue reporting
+- Improved communication workflow
+
+**Tech:** JavaScript, APIs, Backend Development
+
+[View Project](https://github.com/AnupamXcode)
+
+---
+
+## Achievements
+
+- 🥈 **Runner-Up — Spidercraft Coding Hackathon**
+  - Secured 2nd place in a coding hackathon organized by the GDG chapter at Ramdeobaba University.
+  - Selected among the **Top 100 teams from 1,600+ participants**.
+
+- 🏆 **Hackagon Hackathon Finalist — IIITM Gwalior**
+  - Presented **SunoSign**, an AI-based sign language communication system.
 
 
+- 🌐 **Tech Contributor — GirlScript Summer of Code 2025**
+  - Contributed to open-source repositories through feature implementation,
+    issue resolution, pull requests and code reviews.
 
+- 📢 **Campus Ambassador — Techfest, IIT Bombay**
+  - Contributed to outreach and promotional campaigns.
+  - Secured **90+ registrations** through campus outreach initiatives.
 
+---
+
+## Current Learning & Development
+
+```text
+Data Structures & Algorithms    ███████████████░░░░░
+C++                             ████████████████░░░░
+Python                          ██████████████░░░░░░
+SQL & Databases                 █████████████░░░░░░░
+Machine Learning                ███████████░░░░░░░░░
+Backend Development             ██████████░░░░░░░░░░
+Computer Vision                 ██████████░░░░░░░░░░
+System Design                   ██████░░░░░░░░░░░░░░
