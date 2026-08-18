@@ -168,3 +168,5 @@ Machine Learning                ███████████░░░░░
 Backend Development             ██████████░░░░░░░░░░
 Computer Vision                 ██████████░░░░░░░░░░
 System Design                   ██████░░░░░░░░░░░░░░
+
+Learning More tech
