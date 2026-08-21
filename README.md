@@ -100,7 +100,7 @@ text-to-speech.
 **Tech:** React, JavaScript, Node.js, MediaPipe, Web Speech API
 
 [View Project](https://github.com/AnupamXcode/Hacksagon26_SunoSign)
-
+[View_live] (https://suno-sign.vercel.app/)
 ---
 
 ### Intrusion Detection System
@@ -118,6 +118,7 @@ potential cyber attacks.
 **Tech:** Python, Machine Learning, Data Analysis
 
 [View Project](https://github.com/AnupamXcode)
+[View Live] (https://et-saathi-main.vercel.app/)
 
 ---
 
