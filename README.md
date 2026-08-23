@@ -236,10 +236,7 @@ Contributed to campus outreach and promotional initiatives, generating **90+ reg
 ```text
 Artificial Intelligence
 Machine Learning
-Computer Vision
 Data Analytics
-Backend Engineering
 Software Development
 Data Structures & Algorithms
-Database Systems
 Automation
